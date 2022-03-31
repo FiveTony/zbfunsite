@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zbfun/static/css/main.c89aeedc.css",
+    "main.js": "/zbfun/static/js/main.17c82bcf.js",
+    "index.html": "/zbfun/index.html",
+    "main.c89aeedc.css.map": "/zbfun/static/css/main.c89aeedc.css.map",
+    "main.17c82bcf.js.map": "/zbfun/static/js/main.17c82bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89aeedc.css",
+    "static/js/main.17c82bcf.js"
+  ]
+}
